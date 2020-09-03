@@ -1,0 +1,24 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadAmali/RESTApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadAmali/RESTApi/issues"
+  },
+  "homepage": "https://github.com/AhmadAmali/RESTApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2",
+    "nodemon": "^2.0.4"
+  }
+}
